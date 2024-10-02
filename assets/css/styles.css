@@ -549,20 +549,23 @@ img {
   .skills__jira{
     width: 90%;
   }
- 
+
+ .skills__java {
+    width: 50%;  
+}
   .skills__javascript{
     width: 90%;
   }
   .skills__figma{
     width: 50%;
   }
-
-  .skills__java {
-    width: 50%;  /* Añadido % para Java */
-}
+   
 
 .skills__git {
-    width: 90%;  /* Añadido % para Git */
+    width: 90%;  
+}
+.skills__powerbi {
+    width: 70%;  
 }
 
 .skills__close .skills__list {
